@@ -1,0 +1,664 @@
+[
+  {
+    "id": "adm-01",
+    "category": "Admissions",
+    "question": "How do I apply for undergraduate admission?",
+    "variations": [
+      "What is the admission application process?",
+      "How can I submit my college application?",
+      "Steps to apply for undergraduate courses",
+      "Where do I fill out the admission form?"
+    ],
+    "answer": "You can apply online through the university Admissions Portal by creating an applicant account, filling out the application form, uploading scanned academic transcripts and ID proof, and paying the application fee before the deadline."
+  },
+  {
+    "id": "adm-02",
+    "category": "Admissions",
+    "question": "What are the eligibility criteria for bachelor degree programs?",
+    "variations": [
+      "Who is eligible to apply for undergraduate courses?",
+      "Minimum marks required for college admission",
+      "Eligibility requirements for UG admission",
+      "What percentage is needed in high school to apply?"
+    ],
+    "answer": "Applicants must have completed 10+2 (or equivalent high school qualification) from a recognized board with at least 55% aggregate marks. Specific engineering and science programs require Mathematics, Physics, or Chemistry as core subjects."
+  },
+  {
+    "id": "adm-03",
+    "category": "Admissions",
+    "question": "What documents are required during admission?",
+    "variations": [
+      "Which documents should I submit for enrollment?",
+      "Document checklist for college admission",
+      "What papers do I need to bring for verification?",
+      "Required certificates for new students"
+    ],
+    "answer": "You will need your 10th and 12th grade mark sheets, transfer certificate, migration certificate, character certificate, government-issued photo ID, passport-size photographs, and entrance exam scorecard if applicable."
+  },
+  {
+    "id": "adm-04",
+    "category": "Admissions",
+    "question": "When is the last date to apply for the upcoming academic session?",
+    "variations": [
+      "What is the admission deadline?",
+      "When do college applications close?",
+      "Last date for submitting the admission form",
+      "Application closing dates for Fall semester"
+    ],
+    "answer": "Regular admission applications for the upcoming Fall session close on June 30, while late applications with an additional processing fee are accepted until July 15, subject to seat availability."
+  },
+  {
+    "id": "adm-05",
+    "category": "Admissions",
+    "question": "Is there an entrance exam for admission?",
+    "variations": [
+      "Do I have to take an entrance test to join?",
+      "Are admissions based on merit or entrance exam?",
+      "Which entrance tests are accepted by the college?",
+      "Is an admission test mandatory?"
+    ],
+    "answer": "Engineering, Computer Science, and Management programs require a valid score in the University Entrance Test or recognized national exams. Humanities and select Commerce programs offer merit-based admission using 12th-grade scores."
+  },
+  {
+    "id": "adm-06",
+    "category": "Admissions",
+    "question": "How can I check my admission application status?",
+    "variations": [
+      "Where do I track my application?",
+      "How to know if I am selected for admission?",
+      "Check admission result online",
+      "Status of my submitted admission form"
+    ],
+    "answer": "Log in to the Admissions Portal with your application ID and password to view real-time status updates. Shortlisted candidates also receive an official offer letter via their registered email."
+  },
+  {
+    "id": "crs-01",
+    "category": "Courses",
+    "question": "What undergraduate and postgraduate courses are offered?",
+    "variations": [
+      "Which degree programs are available at the college?",
+      "List of courses offered by the university",
+      "What majors and specializations can I study?",
+      "Available bachelor and master programs"
+    ],
+    "answer": "The institution offers B.Tech, B.Sc, BBA, B.Com, and BA at the undergraduate level, as well as M.Tech, M.Sc, MBA, and MCA postgraduate programs across Engineering, Data Science, Management, Commerce, and Liberal Arts."
+  },
+  {
+    "id": "crs-02",
+    "category": "Courses",
+    "question": "Can I change my elective subject after semester registration?",
+    "variations": [
+      "How do I switch an elective course?",
+      "Is it possible to drop or add a subject?",
+      "Course add drop deadline and procedure",
+      "Can I modify my chosen electives?"
+    ],
+    "answer": "Yes, students may add, drop, or switch elective courses within the first two weeks of the semester through the Student Academic Portal, subject to academic advisor approval and seat limits."
+  },
+  {
+    "id": "crs-03",
+    "category": "Courses",
+    "question": "Where can I download the course syllabus and curriculum?",
+    "variations": [
+      "How to get the syllabus for my branch?",
+      "Where is the semester curriculum PDF available?",
+      "Download subject syllabus online",
+      "How can I view course outlines and credits?"
+    ],
+    "answer": "Detailed semester-wise syllabi, credit structures, and reading lists are available on the Academic Resources page of the university website and inside the Student Learning Management System (LMS)."
+  },
+  {
+    "id": "crs-04",
+    "category": "Courses",
+    "question": "Are minors or interdisciplinary honors programs available?",
+    "variations": [
+      "Can I pursue a minor degree alongside my major?",
+      "Does the college offer honors or dual specialization?",
+      "Options for interdisciplinary electives",
+      "How to enroll in a minor specialization?"
+    ],
+    "answer": "Yes, undergraduate students with a CGPA of 7.5 or higher after the second semester can opt for an 18-credit Minor specialization in AI & Machine Learning, Finance, Design, or Entrepreneurship."
+  },
+  {
+    "id": "crs-05",
+    "category": "Courses",
+    "question": "What is the duration and credit requirement for undergraduate degrees?",
+    "variations": [
+      "How many credits are needed to graduate?",
+      "Length of bachelor degree programs",
+      "Total semesters and credits in a degree",
+      "How long is the B.Tech or B.Sc program?"
+    ],
+    "answer": "Standard B.Sc, BBA, B.Com, and BA degrees span 3 years (6 semesters, 120–132 credits), while B.Tech engineering programs span 4 years (8 semesters, 160 credits)."
+  },
+  {
+    "id": "fee-01",
+    "category": "Fees",
+    "question": "What is the annual tuition fee structure?",
+    "variations": [
+      "How much is the college tuition fee per year?",
+      "Fee structure for undergraduate and postgraduate courses",
+      "What are the semester fees?",
+      "Cost of studying at the university",
+      "Tuition fees"
+    ],
+    "answer": "Annual tuition varies by program: B.Tech programs are $4,200 per year, BBA and B.Com are $2,800 per year, B.Sc and BA are $2,400 per year, and MBA/M.Tech postgraduate programs are $4,800 per year. Detailed breakdowns are published on the Finance Office page."
+  },
+  {
+    "id": "fee-02",
+    "category": "Fees",
+    "question": "How can I pay my semester tuition fees online?",
+    "variations": [
+      "Online fee payment methods accepted",
+      "Where do I submit my college fee?",
+      "Steps to pay fees through the student portal",
+      "Can I pay tuition using net banking or card?"
+    ],
+    "answer": "Tuition fees can be paid online through the Student Finance Portal using credit/debit cards, net banking, or bank wire transfer. Instant digital receipts are generated upon successful payment."
+  },
+  {
+    "id": "fee-03",
+    "category": "Fees",
+    "question": "Can I pay my tuition fees in installments?",
+    "variations": [
+      "Is an installment plan available for fees?",
+      "Can I split my semester fee payment?",
+      "Monthly or partial fee payment option",
+      "How to request a tuition installment schedule?"
+    ],
+    "answer": "Yes, students may opt for a two-installment payment plan per semester (60% before semester start and 40% before mid-term exams) by submitting an Installment Request Form in the Finance Portal."
+  },
+  {
+    "id": "fee-04",
+    "category": "Fees",
+    "question": "What is the penalty for late fee payment?",
+    "variations": [
+      "Is there a fine if I pay my fees late?",
+      "Late fee charges after the due date",
+      "What happens if I miss the tuition payment deadline?",
+      "Fee payment grace period and fine"
+    ],
+    "answer": "A grace period of 7 calendar days is provided after the due date. Payments made after the grace period incur a late fee of $15 per week, and exam hall tickets may be held until dues are cleared."
+  },
+  {
+    "id": "fee-05",
+    "category": "Fees",
+    "question": "What is the fee refund policy if I withdraw my admission?",
+    "variations": [
+      "Will I get a refund if I cancel my admission?",
+      "How to apply for a tuition fee refund?",
+      "Withdrawal and cancellation refund rules",
+      "Refund timeline after dropping out"
+    ],
+    "answer": "Students who withdraw at least 15 days before classes begin receive a 100% tuition refund minus a $50 administrative fee. Withdrawals within the first 15 days of classes receive an 80% refund, processed within 21 working days."
+  },
+  {
+    "id": "fee-06",
+    "category": "Fees",
+    "question": "Where can I download my official fee receipt?",
+    "variations": [
+      "How do I get a copy of my tuition payment receipt?",
+      "Download fee invoice for tax or loan",
+      "Receipt missing after online fee payment",
+      "Where are past fee statements stored?"
+    ],
+    "answer": "All historical and current payment receipts are available for PDF download under Finance > Payment History inside your Student Portal."
+  },
+  {
+    "id": "sch-01",
+    "category": "Scholarships",
+    "question": "What scholarships are available for students?",
+    "variations": [
+      "Does the college offer merit or need-based scholarships?",
+      "Types of financial aid and scholarships",
+      "Scholarship schemes for incoming students",
+      "Can I get a tuition waiver or grant?"
+    ],
+    "answer": "The university offers Merit Excellence Scholarships (up to 75% tuition waiver), Need-Based Financial Aid Grants, Sports & Cultural Achievement Scholarships, and Research Assistantship stipends."
+  },
+  {
+    "id": "sch-02",
+    "category": "Scholarships",
+    "question": "How do I apply for a scholarship or financial aid?",
+    "variations": [
+      "Scholarship application process and portal",
+      "Steps to apply for fee waiver",
+      "Where do I submit financial aid documents?",
+      "When can I apply for college scholarships?"
+    ],
+    "answer": "Submit the Financial Aid & Scholarship Application through the Student Portal during admission or at the start of each academic year, attaching academic transcripts and family income documentation if applying for need-based aid."
+  },
+  {
+    "id": "sch-03",
+    "category": "Scholarships",
+    "question": "What GPA is required to renew a merit scholarship?",
+    "variations": [
+      "Scholarship renewal criteria",
+      "Minimum CGPA needed to keep my scholarship",
+      "Do I lose my scholarship if my grades drop?",
+      "Conditions for continuing financial aid"
+    ],
+    "answer": "Merit scholarship recipients must maintain a minimum CGPA of 8.0 out of 10 with no active disciplinary actions or failed courses in the previous academic year to renew their award."
+  },
+  {
+    "id": "sch-04",
+    "category": "Scholarships",
+    "question": "Are external or government scholarships supported by the university?",
+    "variations": [
+      "Can I apply for state or national scholarships here?",
+      "Does the college verify external scholarship forms?",
+      "Education loan and government grant verification",
+      "Support for third-party scholarships"
+    ],
+    "answer": "Yes, the Scholarship Cell assists students with institutional verification, bonafide certificates, and fee structure letters required for national, state, and private foundation scholarships as well as bank education loans."
+  },
+  {
+    "id": "sch-05",
+    "category": "Scholarships",
+    "question": "Are there special scholarships for sports or extracurricular achievements?",
+    "variations": [
+      "Sports quota scholarship details",
+      "Financial aid for athletes and performers",
+      "Tuition discount for state or national sports players",
+      "Arts and athletics scholarships"
+    ],
+    "answer": "Students who have represented at the state, national, or international level in recognized sports or performing arts are eligible for 25% to 50% tuition scholarships upon verification by the Student Affairs Committee."
+  },
+  {
+    "id": "exm-01",
+    "category": "Exams",
+    "question": "Where can I check the semester exam schedule?",
+    "variations": [
+      "When do final exams start?",
+      "How to download the exam timetable?",
+      "Mid-term and end-semester exam dates",
+      "Where is the examination date sheet published?"
+    ],
+    "answer": "Official mid-term and end-semester examination timetables are published on the Examination Notice Board and the Student Portal at least 3 weeks prior to the start of exams."
+  },
+  {
+    "id": "exm-02",
+    "category": "Exams",
+    "question": "How do I download my exam hall ticket or admit card?",
+    "variations": [
+      "Where can I get my exam admit card?",
+      "Download hall ticket for semester exams",
+      "Why is my admit card not showing?",
+      "Requirements to generate exam hall ticket"
+    ],
+    "answer": "Admit cards are released 7 days before exams in the Student Portal under Examinations > Hall Ticket. Students must meet the 75% attendance requirement and have zero pending fee dues to download their ticket."
+  },
+  {
+    "id": "exm-03",
+    "category": "Exams",
+    "question": "What is the passing grade and grading system?",
+    "variations": [
+      "Minimum marks required to pass an exam",
+      "How is CGPA and SGPA calculated?",
+      "College grading scale and pass criteria",
+      "What percentage is needed to clear a subject?"
+    ],
+    "answer": "The university follows a 10-point relative and absolute grading scale (O, A+, A, B+, B, C, P, F). Students must score at least 40% combined in internal assessments and end-semester exams (with a minimum of 35% in the final exam) to pass."
+  },
+  {
+    "id": "exm-04",
+    "category": "Exams",
+    "question": "How can I apply for exam paper revaluation or rechecking?",
+    "variations": [
+      "Process for answer sheet re-evaluation",
+      "I think my exam marks are wrong, how to recheck?",
+      "Fee and deadline for result scrutiny",
+      "Can I review my graded answer script?"
+    ],
+    "answer": "You can apply for answer-script viewing or formal revaluation within 7 days of result declaration through the Examination Portal by paying a refundable scrutiny fee of $10 per subject."
+  },
+  {
+    "id": "exm-05",
+    "category": "Exams",
+    "question": "What happens if I fail a subject or miss an exam?",
+    "variations": [
+      "Rules for backlog or supplementary exams",
+      "Can I retake a failed course?",
+      "Medical leave during final exams",
+      "How to register for makeup exams?"
+    ],
+    "answer": "Students who fail a course or miss an exam due to documented medical emergencies may register for the Supplementary / Makeup Examination held during the winter or summer break, or repeat the course in the next regular offering."
+  },
+  {
+    "id": "exm-06",
+    "category": "Exams",
+    "question": "When are semester exam results declared?",
+    "variations": [
+      "How long does it take to get exam results?",
+      "Where can I check my semester grades?",
+      "Date of result announcement",
+      "View grade card online"
+    ],
+    "answer": "Semester results are typically published within 3 to 4 weeks after the final examination date and can be viewed directly under Academics > Grade Reports in the Student Portal."
+  },
+  {
+    "id": "att-01",
+    "category": "Attendance",
+    "question": "What is the minimum attendance requirement to sit for exams?",
+    "variations": [
+      "How much attendance is mandatory?",
+      "Minimum percentage of classes needed for exams",
+      "Attendance criteria for semester exams",
+      "Is 75% attendance compulsory?"
+    ],
+    "answer": "Students must maintain a minimum of 75% attendance in each registered course (lectures, tutorials, and practical labs combined) to be eligible to appear in the end-semester examinations."
+  },
+  {
+    "id": "att-02",
+    "category": "Attendance",
+    "question": "Where can I check my current attendance percentage?",
+    "variations": [
+      "How do I view my subject-wise attendance?",
+      "Check attendance record online",
+      "App or portal for tracking class attendance",
+      "How often is attendance updated?"
+    ],
+    "answer": "Real-time, subject-wise attendance records are updated daily by faculty and can be checked anytime on the Student Portal dashboard or the official Campus Mobile App."
+  },
+  {
+    "id": "att-03",
+    "category": "Attendance",
+    "question": "How do I apply for medical leave or attendance condonation?",
+    "variations": [
+      "What if my attendance is low due to illness?",
+      "Submit medical certificate for missed classes",
+      "Attendance relaxation for hospital stay",
+      "Condonation rules for 65% to 74% attendance"
+    ],
+    "answer": "Students with 65%–74% attendance due to genuine medical reasons or bereavement may submit a Condonation Application along with certified hospital records to the Dean of Academics at least 10 days before final exams."
+  },
+  {
+    "id": "att-04",
+    "category": "Attendance",
+    "question": "Do I get duty leave for representing the college in events or hackathons?",
+    "variations": [
+      "Attendance credit for sports or technical competitions",
+      "How to claim on-duty attendance leave?",
+      "Will I lose attendance for attending conferences?",
+      "OD leave policy for student activities"
+    ],
+    "answer": "Yes, students representing the college in approved sports tournaments, cultural festivals, hackathons, or academic conferences receive On-Duty (OD) attendance credit upon submitting prior authorization from the Faculty Coordinator."
+  },
+  {
+    "id": "att-05",
+    "category": "Attendance",
+    "question": "What happens if my attendance falls below the required limit?",
+    "variations": [
+      "Consequences of shortage of attendance",
+      "What if I have less than 65% attendance?",
+      "Detained due to low attendance rules",
+      "Can I take exams with low attendance?"
+    ],
+    "answer": "If attendance falls below 65% (or below 75% without approved condonation), the student is marked ineligible for that course's end-semester exam and must attend summer term classes or repeat the course."
+  },
+  {
+    "id": "lib-01",
+    "category": "Library",
+    "question": "What are the central library opening hours?",
+    "variations": [
+      "When does the college library open and close?",
+      "Library timings on weekends and during exams",
+      "Is the library open on Sunday?",
+      "Study hall and library hours"
+    ],
+    "answer": "The Central Library is open Monday to Saturday from 8:00 AM to 10:00 PM, and Sundays from 10:00 AM to 6:00 PM. During exam weeks, the quiet reading hall remains open until midnight."
+  },
+  {
+    "id": "lib-02",
+    "category": "Library",
+    "question": "How many books can a student borrow and for how long?",
+    "variations": [
+      "Library book borrowing limit and duration",
+      "How long can I keep issued library books?",
+      "Number of books allowed per student ID",
+      "Book issue and renewal rules"
+    ],
+    "answer": "Undergraduate students can borrow up to 4 books at a time for 14 days, while postgraduate students and researchers can borrow up to 6 books for 21 days. Books can be renewed once online if not reserved by another reader."
+  },
+  {
+    "id": "lib-03",
+    "category": "Library",
+    "question": "How do I access e-books, IEEE journals, and online databases?",
+    "variations": [
+      "Remote access to digital library resources",
+      "How to log into university research journals from home?",
+      "Access IEEE, ACM, or Springer papers",
+      "Digital library login credentials"
+    ],
+    "answer": "Log in to the Digital Library Portal using your institutional email and password. Remote off-campus access to IEEE Xplore, ACM Digital Library, SpringerLink, and JSTOR is automatically enabled via single sign-on (SSO)."
+  },
+  {
+    "id": "lib-04",
+    "category": "Library",
+    "question": "What is the fine for returning a library book late?",
+    "variations": [
+      "Library overdue charges per day",
+      "Late return penalty for books",
+      "What if I lose a borrowed library book?",
+      "Overdue fine payment method"
+    ],
+    "answer": "Overdue books incur a fine of $0.50 per book per day after the due date. If a book is lost or damaged, the borrower must replace it with the latest edition or pay its current list price plus a processing fee."
+  },
+  {
+    "id": "lib-05",
+    "category": "Library",
+    "question": "Can students book group study rooms in the library?",
+    "variations": [
+      "How to reserve a discussion room in the library?",
+      "Are quiet pods or group study cabins available?",
+      "Booking a library room for team projects",
+      "Collaboration spaces inside the library"
+    ],
+    "answer": "Yes, groups of 3 to 6 students can reserve soundproof study rooms equipped with whiteboards and display screens for up to 2 hours per day via the Library Room Booking system."
+  },
+  {
+    "id": "plc-01",
+    "category": "Placements",
+    "question": "How does the Training and Placement Cell support students?",
+    "variations": [
+      "What services does the career and placement office offer?",
+      "Job placement assistance for graduating students",
+      "Does the college help with resumes and mock interviews?",
+      "Campus recruitment support",
+      "Does the college offer placement training?"
+    ],
+    "answer": "The Career & Placement Cell conducts resume workshops, aptitude and coding bootcamps, mock technical/HR interviews, industry mentorship sessions, and coordinates on-campus and virtual recruitment drives."
+  },
+  {
+    "id": "plc-02",
+    "category": "Placements",
+    "question": "What is the placement record and average salary package?",
+    "variations": [
+      "Campus placement statistics and highest package",
+      "Average CTC offered to graduates",
+      "Percentage of students placed last year",
+      "Recent placement report"
+    ],
+    "answer": "Over 89% of eligible graduating students secured offers in the latest placement cycle, with an average compensation package of $11,500 (domestic) / competitive global offers and top packages reaching $38,000+."
+  },
+  {
+    "id": "plc-03",
+    "category": "Placements",
+    "question": "Which top companies recruit from the campus?",
+    "variations": [
+      "List of companies visiting for campus placements",
+      "Who are the major recruiters at the university?",
+      "Do tech and consulting firms hire here?",
+      "Top hiring partners"
+    ],
+    "answer": "Over 140 recruiters visit annually across software, AI, finance, consulting, and core engineering sectors, including leading technology firms, analytics startups, banking institutions, and multinational manufacturers."
+  },
+  {
+    "id": "plc-04",
+    "category": "Placements",
+    "question": "When do campus internships and placement drives begin?",
+    "variations": [
+      "Timeline for summer internships and full-time jobs",
+      "Which semester do placements start?",
+      "When can third-year students apply for internships?",
+      "Placement registration schedule"
+    ],
+    "answer": "Summer internship drives for pre-final year students run from August to February, while full-time campus placement drives for final-year students begin in late August and continue through April."
+  },
+  {
+    "id": "plc-05",
+    "category": "Placements",
+    "question": "Are internships mandatory for graduation?",
+    "variations": [
+      "Do students need to complete an internship for credits?",
+      "Credit requirement for summer internship",
+      "Can a research project replace an industry internship?",
+      "Internship rules for degree completion"
+    ],
+    "answer": "Yes, a 6-to-8-week summer internship or an approved faculty-mentored industrial research project is mandatory between the pre-final and final year, carrying 4 academic credits."
+  },
+  {
+    "id": "plc-06",
+    "category": "Placements",
+    "question": "What are the eligibility criteria to sit for campus placements?",
+    "variations": [
+      "Minimum CGPA needed for placements",
+      "Can students with backlogs attend placement interviews?",
+      "Placement registration requirements",
+      "Rules for applying to campus jobs"
+    ],
+    "answer": "Students must register on the Placement Portal, maintain no active backlogs at the time of drives (unless specified otherwise by a recruiter), and meet any minimum CGPA criteria set by individual visiting companies (typically 6.5 or 7.0)."
+  },
+  {
+    "id": "cmp-01",
+    "category": "Campus facilities",
+    "question": "Are on-campus hostels and accommodation available?",
+    "variations": [
+      "How do I apply for a college hostel room?",
+      "Dormitory and residential facilities on campus",
+      "Hostel fees and room types",
+      "Does the campus have separate boys and girls hostels?"
+    ],
+    "answer": "Yes, the university provides separate, secure residential hostels for men and women with single, twin-sharing, and AC/non-AC room options, 24/7 security, laundry rooms, and high-speed Wi-Fi. Apply through the Housing Portal after admission."
+  },
+  {
+    "id": "cmp-02",
+    "category": "Campus facilities",
+    "question": "How do I connect to the campus Wi-Fi network?",
+    "variations": [
+      "Campus internet access and login details",
+      "How to get Wi-Fi password for students?",
+      "Is Wi-Fi free in classrooms and hostels?",
+      "Trouble connecting to university Wi-Fi"
+    ],
+    "answer": "Select the 'CampusNet-Secure' SSID on your laptop or phone and sign in using your student registration number and portal password. High-speed Wi-Fi covers all academic blocks, labs, library, and hostels."
+  },
+  {
+    "id": "cmp-03",
+    "category": "Campus facilities",
+    "question": "Is campus bus transport available from the city?",
+    "variations": [
+      "College shuttle and bus routes",
+      "How to apply for a campus bus pass?",
+      "Transportation facilities for day scholars",
+      "Bus timings and pickup points"
+    ],
+    "answer": "Yes, the university operates 24 GPS-tracked shuttle buses covering major city routes. Day scholars can view route maps and apply for a semester bus pass through the Transport Desk in the Student Portal."
+  },
+  {
+    "id": "cmp-04",
+    "category": "Campus facilities",
+    "question": "What medical and health care services are on campus?",
+    "variations": [
+      "Is there a health clinic or doctor on campus?",
+      "Medical emergency and ambulance facilities",
+      "Campus counseling and mental health support",
+      "First aid and infirmary hours"
+    ],
+    "answer": "The Campus Health Center is staffed by resident doctors and nurses 24/7, with an on-call ambulance and tie-ups with nearby multi-specialty hospitals. Confidential student counseling is also available Monday–Friday."
+  },
+  {
+    "id": "cmp-05",
+    "category": "Campus facilities",
+    "question": "What dining, cafeteria, and mess facilities are available?",
+    "variations": [
+      "Food courts and canteen options on campus",
+      "Is vegetarian and hygienic food served in the hostel mess?",
+      "Cafeteria opening hours",
+      "Meal plans for hostel residents"
+    ],
+    "answer": "Campus dining includes two main hostel messes offering nutritious vegetarian and non-vegetarian menus, plus three multi-cuisine food courts and coffee kiosks open from 7:30 AM to 11:00 PM."
+  },
+  {
+    "id": "cmp-06",
+    "category": "Campus facilities",
+    "question": "What sports, gym, and student club facilities exist?",
+    "variations": [
+      "Does the college have a gymnasium and sports ground?",
+      "Extracurricular clubs and student societies",
+      "Indoor and outdoor sports complex",
+      "How can I join coding or robotics clubs?"
+    ],
+    "answer": "The campus features a fitness gymnasium, basketball and tennis courts, a cricket/football ground, indoor badminton and table tennis halls, and 30+ active student clubs including AI & Robotics, Debate, Music, and Photography."
+  },
+  {
+    "id": "cnt-01",
+    "category": "Contact and support",
+    "question": "How can I contact the student helpdesk or administration office?",
+    "variations": [
+      "Student support email and phone number",
+      "Where is the administrative helpdesk located?",
+      "Working hours of the student affairs office",
+      "Who do I reach out to for general queries?"
+    ],
+    "answer": "You can reach the Student Helpdesk at support@campusassist.edu or call +1 (800) 555-0194 Monday through Saturday, 9:00 AM to 5:30 PM. In-person support is available at Admin Block Room 102."
+  },
+  {
+    "id": "cnt-02",
+    "category": "Contact and support",
+    "question": "How do I reset my forgotten Student Portal password?",
+    "variations": [
+      "Cannot log in to my student account",
+      "Forgot LMS or campus email password",
+      "IT support for account locked out",
+      "Steps to recover student login credentials"
+    ],
+    "answer": "Click 'Forgot Password' on the Student Portal login screen to receive a verification link on your personal recovery email, or contact IT Support at ithelp@campusassist.edu with your student ID."
+  },
+  {
+    "id": "cnt-03",
+    "category": "Contact and support",
+    "question": "How do I apply for a bonafide certificate or official transcript?",
+    "variations": [
+      "Request character or enrollment verification letter",
+      "How to get duplicate ID card or transcript?",
+      "Process for official college certificates",
+      "Where to request a student bonafide letter?"
+    ],
+    "answer": "Submit an online request under Student Services > Document Requests in the Student Portal. Digital bonafide letters are generated within 24 hours, and sealed official transcripts are ready within 3 working days."
+  },
+  {
+    "id": "cnt-04",
+    "category": "Contact and support",
+    "question": "Where is the university campus located?",
+    "variations": [
+      "College address and directions",
+      "How to reach the campus from the airport or train station?",
+      "Campus map and location details",
+      "Main gate address for visitors"
+    ],
+    "answer": "The main campus is located at 420 University Avenue, Innovation District. Visitor parking is available near Gate 1, and public metro transit stops directly outside the North Campus Entrance."
+  },
+  {
+    "id": "cnt-05",
+    "category": "Contact and support",
+    "question": "How do I report a grievance, ragging, or safety concern?",
+    "variations": [
+      "Student grievance redressal cell contact",
+      "Confidential helpline for campus safety",
+      "How to file a formal student complaint?",
+      "Anti-ragging committee contact details"
+    ],
+    "answer": "Students can submit confidential reports anytime via the Grievance Redressal Portal or call the 24/7 Campus Safety & Anti-Ragging Helpline at +1 (800) 555-0911. All cases are reviewed promptly by the Ombudsman Committee."
+  }
+]

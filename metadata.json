@@ -1,0 +1,6 @@
+{
+  "name": "CampusAssist — Intelligent FAQ Chatbot",
+  "description": "CodeAlpha AI Internship project: Intelligent College & Student Support FAQ Chatbot powered by NLP preprocessing, TF-IDF vectorization, and Cosine Similarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
